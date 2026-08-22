@@ -7,7 +7,7 @@
 ![Modding Industry](https://img.shields.io/badge/Modding_Industry-FDCB6E?style=for-the-badge&logo=modrinth&logoColor=black)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/paltepmark27) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paltepmjsurs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mark-jowell-paltep-8836293b5) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@mark jowell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paltepmarkme@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/paltepmark27) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paltepmjsurs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mark-jowell-paltep-8836293b5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paltepmarkme@gmail.com) 
 
 # 💻 Tech Stack:
 ### 🎮 Game Development
