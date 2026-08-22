@@ -1,5 +1,5 @@
 # 💫 About Me:
-Modding Industry<br>Software developer <br>Web developer<br>Full-stack developer<br>Game developer<br>Big data developer<br>Security developer<br>Mobile developer
+Modding Industry<br>Software developer <br>Web developer<br>Full-stack developer<br>
 
 
 ## 🌐 Socials:
