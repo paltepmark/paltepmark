@@ -11,8 +11,7 @@ Modding Industry<br>Software developer <br>Web developer<br>Full-stack developer
 
 
 
-<!-- Direct Shields.io Stats (Always Working) -->
-![Stars](https://img.shields.io/badge/stars-999-gold?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/stars-999%2B-gold?style=for-the-badge&logo=github)
 
 
 ## 🏆 GitHub Trophies
