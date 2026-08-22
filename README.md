@@ -13,7 +13,17 @@ Modding Industry<br>Software developer <br>Web developer<br>Full-stack developer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paltepmark&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=paltepmark&theme=onedark)
+<!-- Generic Trophy Badge -->
+![Trophy](https://img.shields.io/badge/Trophy-Gold_Developer-gold?style=for-the-badge&logo=trophy&logoColor=white)
+
+<!-- GitHub Stars Badge -->
+![GitHub Stars](https://img.shields.io/badge/Achievement-Top_Contributor-blue?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- Code Quality Badge -->
+![Code Quality](https://img.shields.io/badge/Code_Rank-S_Tier-brightgreen?style=for-the-badge&logo=codefactor&logoColor=white)
+
+<!-- Competitive Programming / LeetCode -->
+![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
