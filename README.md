@@ -13,7 +13,7 @@ Modding Industry<br>Software developer <br>Web developer<br>Full-stack developer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paltepmark&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[[![github-trophy](https://github-profile-trophy.vercel.app/?username=paltepmark)](https://github.com/ryo-ma/github-profile-trophy)](https://trophygithubreadmelang.cybee.dpdns.org/?username=paltepmark)
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=paltepmark&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
